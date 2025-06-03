@@ -1,1 +1,1 @@
-# snake-Game
+SNAKE GMAE is made with the help of HTML,CSS, javascript . The Snake game is a classic arcade-style game where players control a growing snake that moves around the screen. The objective is to eat food items, which cause the snake to grow longer, while avoiding collisions with the walls or its own body
